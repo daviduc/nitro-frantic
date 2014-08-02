@@ -34,3 +34,9 @@ html,body {
 	width: 100%;
 }
 
+p#p2nd
+{
+    padding-left: 7px;
+    margin-bottom: 0px;
+    magin-top:0px;
+}
